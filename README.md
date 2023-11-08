@@ -4,7 +4,7 @@
    <!-- ABOUT THE PROJECT -->
    ## About The Project
 
-This project helps people to create grocery list and then remove their iteams from the list with very easy way doing that. 
+This project helps people to create a Grocery List and then remove their iteams from the list with very easy way doing that. 
 
 No ink or paper needed.
 
