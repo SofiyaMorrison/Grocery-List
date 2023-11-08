@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### How to use the App.
 
-1. After you opened a Grocery List App via [http://localhost:3000](http://localhost:3000), you can type in your grocery iteams in open input window that says "What do you want to buy today?:
+1. After you opened a Grocery List App via [http://localhost:3000](http://localhost:3000), you can type in your grocery iteams in open input window that says "What do you want to buy today? :
    
    ####
  **```
