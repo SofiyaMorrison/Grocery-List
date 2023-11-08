@@ -59,28 +59,28 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
                 <ul>
            ```**
 
- **```
+     **```
                 {this.state.groceryList.map((item,index)=>(
-    ```**
+          ```**
     
- **```
+     **```
                     <li onClick={this.crossedWord}
-     ```**
+          ```**
      
-   **```
+     **```
                      key = {index}> 💎{item}
-    ```**
+          ```**
     
- **```
+     **```
                      </li>
-    ```**
+         ```**
     
- **```
+    **```
                 ))}
-    ```**
+          ```**
     
- **```
-            </ul>
+    **```
+               </ul>
             ```**
             
    ##### **Note: file - GroceryList.js.**
