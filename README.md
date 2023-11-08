@@ -14,9 +14,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### How to use the App.
 
-1. After you opened a Grocery List App via [http://localhost:3000](http://localhost:3000), you can type in your grocery iteams in open input window that says :
-
-   "What do you want to buy today?",
+1. After you opened a Grocery List App via [http://localhost:3000](http://localhost:3000), you can type in your grocery iteams in open input window that says "What do you want to buy today?:
+   
    ####
  **```
       <input type="text"
@@ -36,7 +35,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
        
  ##### **Note: file - GroceryList.js.**
 
-3. Then Add your iteam in a list by pressing **ADD** button,
+2. Then Add your iteam in a list by pressing **ADD** button,
    ####
  **```
        <button onClick={()=>this.addItem(this.state.userInput)} className="add">
@@ -54,7 +53,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    
    #####     **Note: file - GroceryList.js.**
 
- 5. If you bought an iteam from your list you can cross it out by clicking on that grocery iteam and crossed red line will pop up on it :
+ 3. If you bought an iteam from your list you can cross it out by clicking on that grocery iteam and crossed red line will pop up on it :
     ####
     **```
            <ul>
@@ -104,7 +103,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
              
    ##### **Note: file - App.css.**
     
- 7. If you would like to remove all iteams from your list, then click on button **DELETE** :
+ 4. If you would like to remove all iteams from your list, then click on button **DELETE** :
        ####
  **```
         <button onClick={()=>this.deleteItem()} className="delete">
