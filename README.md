@@ -49,7 +49,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
        </button>
        ```** 
    
-     , *OR* use button **Enter** on a keyboard.
+   ,*OR* use button **Enter** on a keyboard.
    
    #####     **Note: file - GroceryList.js.**
 
