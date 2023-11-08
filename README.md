@@ -56,7 +56,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
  3. If you bought an iteam from your list you can cross it out by clicking on that grocery iteam and crossed red line will pop up on it :
     ####
     **```
-           <ul>
+                <ul>
            ```**
 
  **```
